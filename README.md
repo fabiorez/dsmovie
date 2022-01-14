@@ -3,8 +3,6 @@
 
 # Sobre o projeto
 
-[FALTA]
-
 DSMovie é uma aplicação full stack web e mobile construída durante a 6ª edição da **Semana DevSuperior** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em uma listagem de filmes no app web, aonde conseguimos adicionar uma nota e é calculada a media de estrelas.
@@ -14,7 +12,7 @@ A aplicação consiste em uma listagem de filmes no app web, aonde conseguimos a
 ![Dashboard](https://github.com/fabiorez/images/blob/master/sds6/pagina-dashboard.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/fabiorez/images/blob/master/sds6/modelo-conceitual.png)
+![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/dsmovie-dominio.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -25,9 +23,7 @@ A aplicação consiste em uma listagem de filmes no app web, aonde conseguimos a
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
-- Apex Charts
-- 
+- React Native- 
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
