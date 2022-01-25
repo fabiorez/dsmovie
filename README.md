@@ -9,7 +9,7 @@ A aplicação consiste em uma listagem de filmes no app web, aonde conseguimos a
 
 ## Layout web
 ![Home](https://github.com/fabiorez/images/blob/master/sds6/pagina-home.png)
-![Dashboard](https://github.com/fabiorez/images/blob/master/sds6/pagina-dashboard.png)
+![Note](https://github.com/fabiorez/images/blob/master/sds6/pagina-nota.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/dsmovie-dominio.png)
